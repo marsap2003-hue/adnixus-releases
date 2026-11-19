@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "android": {
+    "releaseId": "android-1",
+    "version": "1.0.0",
+    "runtimeVersion": "0215a1e4274828b2c2b7d573078337f8a8cd522a",
+    "replacesRuntimeVersions": [
+      "5709ae58fc13e69e09ed5ef0828f90707e993a67",
+      "19c81d25689d5cdc99e6589bc18dd4fba8cbb839"
+    ],
+    "apkUrl": "https://expo.dev/artifacts/eas/kYkyCpOXmIlBPRrhBfEVe3Id6i7PG1bUx94_uWBKtVs.apk",
+    "notes": "Official ADNIXUS Android installation. Install over the existing app to keep your workouts. Future compatible improvements arrive through Me > Updates."
+  }
+}
