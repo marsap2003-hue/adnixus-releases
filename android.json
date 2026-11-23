@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "android": {
-    "releaseId": "android-3",
+    "releaseId": "android-4",
     "version": "1.0.0",
-    "nativeVersionCode": 3,
-    "runtimeVersion": "f0593c527365f01b65ca4686193e27d6b52a4338",
+    "nativeVersionCode": 4,
+    "runtimeVersion": "57ef02337afdd4fb563ad266d93ed67ba8644289",
     "replacesRuntimeVersions": [
+      "f0593c527365f01b65ca4686193e27d6b52a4338",
       "0215a1e4274828b2c2b7d573078337f8a8cd522a",
       "5709ae58fc13e69e09ed5ef0828f90707e993a67",
       "19c81d25689d5cdc99e6589bc18dd4fba8cbb839"
     ],
-    "apkUrl": "https://expo.dev/artifacts/eas/zecJUwPSmuTwlDEbcpxY08WJeuc6PJItvHVqSMMHKXI.apk",
-    "notes": "Complete ADNIXUS release with security improvements, the latest app changes and the purple icon. Install over the existing app to keep your workouts. Future compatible improvements arrive through Me > Updates."
+    "apkUrl": "https://expo.dev/artifacts/eas/ClddN6UFo1myG0ZIm4nXFXi-14kNO4FgbuRiMxJvXMs.apk",
+    "notes": "ADNIXUS: branded startup, improved tutorial and keyboard visibility, multiple workouts per day, deload weeks, bottom selection actions and set completion fixes. Install over the existing app to keep your data."
   }
 }
