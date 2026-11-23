@@ -12,6 +12,7 @@
       "19c81d25689d5cdc99e6589bc18dd4fba8cbb839"
     ],
     "apkUrl": "https://expo.dev/artifacts/eas/ClddN6UFo1myG0ZIm4nXFXi-14kNO4FgbuRiMxJvXMs.apk",
-    "notes": "ADNIXUS: branded startup, improved tutorial and keyboard visibility, multiple workouts per day, deload weeks, bottom selection actions and set completion fixes. Install over the existing app to keep your data."
+    "notes": "ADNIXUS: branded startup, improved tutorial and keyboard visibility, multiple workouts per day, deload weeks, bottom selection actions and set completion fixes. Install over the existing app to keep your data.",
+    "namedApkUrl": "https://github.com/marsap2003-hue/adnixus-releases/releases/download/android-4/ADNIXUS-1.0.0-build4.apk"
   }
 }
