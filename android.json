@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
   "android": {
-    "releaseId": "android-5",
+    "releaseId": "android-6",
     "version": "1.0.0",
-    "nativeVersionCode": 5,
-    "runtimeVersion": "dc43f2a43a66a96ad02d0778fb2281c7ccf73ae8",
+    "nativeVersionCode": 6,
+    "runtimeVersion": "2f10897e110526cf481c1220838cabace105d403",
     "replacesRuntimeVersions": [
       "f0593c527365f01b65ca4686193e27d6b52a4338",
       "0215a1e4274828b2c2b7d573078337f8a8cd522a",
       "5709ae58fc13e69e09ed5ef0828f90707e993a67",
       "19c81d25689d5cdc99e6589bc18dd4fba8cbb839",
-      "57ef02337afdd4fb563ad266d93ed67ba8644289"
+      "57ef02337afdd4fb563ad266d93ed67ba8644289",
+      "dc43f2a43a66a96ad02d0778fb2281c7ccf73ae8"
     ],
-    "apkUrl": "https://expo.dev/artifacts/eas/Mk9dCGfBrCXbOMhyBRsmgeJ2riP3w4Eg3AH9CCwkUFE.apk",
-    "notes": "Optional outdoor GPS distance recording, including with the screen locked; Start/Stop/Resume GPS and manual entry; compact inline workout fields. Install over the existing ADNIXUS app to keep your data. Do not uninstall first.",
-    "namedApkUrl": "https://github.com/marsap2003-hue/adnixus-releases/releases/download/android-5/ADNIXUS-1.0.0-build5.apk"
+    "apkUrl": "https://expo.dev/artifacts/eas/uQLz_soz2aYFkaszEscoWZpG7ImOhhut5sO0iiRMsyY.apk",
+    "notes": "Coach plan assignments and client review/acceptance, with independent copies saved in Workouts; copy invitation codes with one tap. Workout results and backups remain private. Install over your existing ADNIXUS app to keep your data. Do not uninstall first.",
+    "namedApkUrl": "https://github.com/marsap2003-hue/adnixus-releases/releases/download/android-6/ADNIXUS-1.0.0-build6.apk"
   }
 }
